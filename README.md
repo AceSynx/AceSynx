@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AceSynx
-- 👀 I’m interested in technology and computers, sports, gaming, and photography.
+- 👀 I’m interested in technology and computers, sports, and gaming.
 - 🌱 I’m currently learning Python & Web Development which includes HTML, Javascript, and CSS.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 How to reach me: DON'T
